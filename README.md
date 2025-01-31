@@ -1,16 +1,25 @@
-# note_taking_app
+# Note Taking App
 
-A new Flutter project.
+This is a simple Flutter application designed for note-taking.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Integrated SQLite for storing and managing user notes.
+- Used PathProvider to manage file paths for data storage.
+- Enabled users to add, view, update, and delete notes.
+- Ensured smooth functionality on IOS and Android.
 
-A few resources to get you started if this is your first Flutter project:
+## APK File
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can download the APK file for the app using the link below:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Download APK](https://drive.google.com/file/d/1ZiyWcbnemLrLF6My5qHiJ_9pJkmeO4LG/view?usp=sharing)
+
+## App Screenshot
+
+Here are the screenshots of the app:
+
+![Screenshot 1](https://i.imgur.com/i4nJn8r.jpg)
+![Screenshot 2](https://i.imgur.com/W7NxjzP.jpg)
+![Screenshot 3](https://i.imgur.com/ytd3Jtv.jpg)
+![Screenshot 4](https://i.imgur.com/Ill6UFW.jpg)
